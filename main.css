@@ -1,0 +1,15 @@
+body {
+    color:aquamarine;
+    padding: 24px;
+    position: relative;
+    animation-delay: var(position);
+    margin: auto;
+}
+header {
+    font-family: fantasy;
+    color: blue;
+    border: chartreuse;
+}
+.name1 {
+    text-transform: uppercase;
+}
