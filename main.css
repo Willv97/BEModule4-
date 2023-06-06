@@ -1,3 +1,4 @@
+/*Styling to the body*/
 body {
     color:aquamarine;
     padding: 24px;
@@ -5,11 +6,14 @@ body {
     animation-delay: var(position);
     margin: auto;
 }
+/*header changes*/
 header {
     font-family: fantasy;
     color: blue;
     border: chartreuse;
 }
+
+/*Class text change*/
 .name1 {
     text-transform: uppercase;
 }
